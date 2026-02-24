@@ -1,5 +1,5 @@
 ### Hi, I'm Chathurya Dhananjani Wijayathilake 👋
-I’m a **BSc (Hons) IT undergraduate at the Open University of Sri Lanka**.  
+I’m a **BSc (Hons) IT Undergraduate at the Open University of Sri Lanka**.  
 I have a strong interest in software development, AI concepts, and digital content creation, and I enjoy building practical applications that solve real problems.  
 Most of my projects start with curiosity and grow step by step through learning, testing, and improving.
 
