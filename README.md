@@ -29,7 +29,7 @@ Artificial Intelligence concepts, backend development, and building more real wo
 
 ### 🎯 My Goal
 
-To continuously improve as a developer, contribute to meaningful projects, and build solutions that make a real difference.  
+To grow into a versatile and skilled software professional by exploring different areas of technology, building impactful projects, and continuously improving my problem-solving and development skills. 
 
 I believe in consistency, curiosity, and learning something new every day.
 
